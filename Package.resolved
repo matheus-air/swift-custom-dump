@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "xctest-dynamic-overlay",
-        "repositoryURL": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+        "repositoryURL": "git@github.com:matheus-air/xctest-dynamic-overlay.git",
         "state": {
-          "branch": null,
-          "revision": "30314f1ece684dd60679d598a9b89107557b67d9",
-          "version": "0.4.1"
+          "branch": "ios-11-compatibility",
+          "revision": "623a0f8757c530d495558e4f1eddef17cf93f6e8",
+          "version": null
         }
       }
     ]
