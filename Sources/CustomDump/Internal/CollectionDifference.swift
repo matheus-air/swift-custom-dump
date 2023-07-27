@@ -1,3 +1,4 @@
+@available(iOS 13.0, *)
 extension CollectionDifference.Change {
   var offset: Int {
     switch self {

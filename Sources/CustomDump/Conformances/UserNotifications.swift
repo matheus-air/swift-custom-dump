@@ -19,7 +19,7 @@
     }
   }
 
-  @available(iOS 10, macOS 10.14, tvOS 10, watchOS 3, *)
+  @available(iOS 13, macOS 10.14, tvOS 10, watchOS 3, *)
   extension UNAuthorizationOptions: CustomDumpReflectable {
     public var customDumpMirror: Mirror {
       struct Option: CustomDumpStringConvertible {
